@@ -23,4 +23,4 @@ Overall Structure
 
 T-Mamba Encoder
 ----------------------------------------
-![image](https://github.com/zhouweilian1904/Mamba-in-Mamba/blob/main/T%mamba%3.png)
+![image](https://github.com/zhouweilian1904/Mamba-in-Mamba/blob/main/T_mamba_3.png)
