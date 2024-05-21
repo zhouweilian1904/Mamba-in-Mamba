@@ -17,6 +17,10 @@ The codes will cooming soon!
 
 We are preparing this github one by one.
 
-Conceptual diagram
+Overall Structure
 ----------------------------------------
-![image]()
+![image](https://github.com/zhouweilian1904/Mamba-in-Mamba/blob/main/whole%20structure.png)
+
+T-Mamba Encoder
+----------------------------------------
+![image](https://github.com/zhouweilian1904/Mamba-in-Mamba/blob/main/T%mamba%3.png)
