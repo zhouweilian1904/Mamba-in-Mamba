@@ -44,3 +44,27 @@ We have uploaded several datasets: https://drive.google.com/drive/folders/1IQxuz
 11. Augmented_Mississippi_Gulfport, 
 12. Augmented_PaviaU
 13. The disjoint datasets (IP, PU, HU) can be referred in https://github.com/danfenghong/IEEE_TGRS_SpectralFormer.
+
+--------------------------------
+**How to use:**
+
+You can find and add some arguments in *main.py* for your own testing.
+
+For example:
+
+python main.py --model MiM-v1 --dataset IndianPines --patch_size 7 --epoch 300 --cuda 0 --batch_size 64 --train_set Datasets/IndianPines/TRAIN_GT.mat --test_set Datasets/IndianPines/TEST_GT.mat
+
+--------------------------------
+**Models:**
+
+In the *model.py*, we have implemented many types of different designs for HSI classification. You can try it with your debug because we are still modifying them. There may exist some mistakes. 
+Some papers do not open-source their codes, so we code it by ourself.
+
+--------------------------------
+**Env settings:**
+
+Pytorch:2.3
+
+Cuda:12.2
+
+Ubuntu 22.04
