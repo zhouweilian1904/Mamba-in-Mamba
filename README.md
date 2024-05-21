@@ -68,3 +68,21 @@ Pytorch:2.3
 Cuda:12.2
 
 Ubuntu 22.04
+
+---------------------------------
+**Many thanks**
+
+DeepHyperX: https://github.com/nshaud/DeepHyperX.
+
+VMamba: https://github.com/MzeroMiko/VMamba.
+
+Tokenlearner: https://github.com/rish-16/tokenlearner-pytorch.
+
+Mamba in pytorch: https://github.com/alxndrTL/mamba.py.
+
+Vision Mamba: https://github.com/hustvl/Vim.
+
+
+
+
+
