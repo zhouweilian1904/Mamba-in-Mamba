@@ -13,7 +13,7 @@ zhouweilian1904@akane.waseda.jp
 ------
 **Please kindly cite the paper if this code is useful and helpful for your research.** 
 
-We are preparing this github one by one.
+We are preparing this github step by step.
 
 Overall Structure
 ----------------------------------------
