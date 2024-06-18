@@ -1,6 +1,7 @@
 # MiM
 
 The repository for the paper "Mamba-in-Mamba: Centralized Mamba-Cross-Scan in Tokenized Mamba Model for Hyperspectral Image Classification" (preprint version: https://arxiv.org/abs/2405.12003)
+(Under review)
 
 ------
 
