@@ -13,7 +13,7 @@ zhouweilian1904@akane.waseda.jp
 ------
 **Please kindly cite the paper if this code is useful and helpful for your research.** 
 
-We are preparing this github step by step.
+We are preparing this github step by step. Some codes are still modified, and you can also modify and improve them by yourself. Good Luck! 
 
 Overall Structure
 ----------------------------------------
@@ -52,7 +52,7 @@ You can find and add some arguments in *main.py* for your own testing.
 
 For example:
 
-python main.py --model MiM-v1 --dataset IndianPines --patch_size 7 --epoch 300 --cuda 0 --batch_size 64 --train_set Datasets/IndianPines/TRAIN_GT.mat --test_set Datasets/IndianPines/TEST_GT.mat
+python main.py --model (MiM-v1, v2, v3) --dataset IndianPines --patch_size 7 --epoch 300 --cuda 0 --batch_size 64 --train_set Datasets/IndianPines/TRAIN_GT.mat --test_set Datasets/IndianPines/TEST_GT.mat
 
 --------------------------------
 **Models:**
