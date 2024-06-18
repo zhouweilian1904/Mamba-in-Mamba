@@ -59,7 +59,7 @@ from my_models.MiM_v3 import MiM_v3
 from my_models.MiM_v2 import MiM_v2
 from my_models.MiM_v1 import MiM_v1
 from my_models.mamba_2 import MiM_main as mamba2
-from my_models.Mamba3D import Mamba3D
+
 
 
 def get_model(name, **kwargs):
