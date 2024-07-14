@@ -18,11 +18,11 @@ We are preparing this github step by step. Some codes are still modified, and yo
 
 Overall Structure
 ----------------------------------------
-![image](https://github.com/zhouweilian1904/Mamba-in-Mamba/blob/main/whole%20structure.png)
+![image](https://github.com/zhouweilian1904/Mamba-in-Mamba/blob/main/whole_structure_3.jpg)
 
 T-Mamba Encoder
 ----------------------------------------
-![image](https://github.com/zhouweilian1904/Mamba-in-Mamba/blob/main/T_mamba_3.png)
+![image](https://github.com/zhouweilian1904/Mamba-in-Mamba/blob/main/T_mamba_2.jpg)
 
 **Abstract:**
 
