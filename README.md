@@ -45,6 +45,7 @@ We have uploaded several datasets: https://drive.google.com/drive/folders/1IQxuz
 11. Augmented_Mississippi_Gulfport, 
 12. Augmented_PaviaU
 13. The disjoint datasets (IP, PU, HU) can be referred in https://github.com/danfenghong/IEEE_TGRS_SpectralFormer.
+14. WHU-Hi dataset: http://rsidea.whu.edu.cn/resource_WHUHi_sharing.htm
 
 --------------------------------
 **How to use:**
