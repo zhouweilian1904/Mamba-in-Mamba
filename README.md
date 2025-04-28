@@ -1,7 +1,14 @@
 # MiM
 
-The repository for the paper "Mamba-in-Mamba: Centralized Mamba-Cross-Scan in Tokenized Mamba Model for Hyperspectral Image Classification" (preprint version: https://arxiv.org/abs/2405.12003)
-(Under review)
+Weilian Zhou, Sei-ichiro Kamata, Haipeng Wang, Man Sing Wong, Huiying (Cynthia) Hou,
+Mamba-in-Mamba: Centralized Mamba-Cross-Scan in Tokenized Mamba Model for Hyperspectral image classification,
+Neurocomputing,
+Volume 613,
+2025,
+128751,
+ISSN 0925-2312,
+https://doi.org/10.1016/j.neucom.2024.128751.
+(https://www.sciencedirect.com/science/article/pii/S0925231224015224)
 
 ------
 
